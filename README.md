@@ -4,21 +4,52 @@
  # Form-with-React-Function-Components
  Form Pattern to register new users.
 
-### Implemented in ReactJS using:
+### Front-end:
 
-- React 17.0.2
+- React 17
 - Functional Components
 - useState hook
 - useContext hook
 - useError customized hook
 - Material-ui
+- Styled-Components
 - Eslint with rules of styles by Airbnb
-- Good pratices
+- jQuery (for some legacy static pages)
+- jsPDF lib
+- HighCharts lib
+- scss
+- Eslint with rules of styles by Airbnb
+
+### Back-end:
+
+- Linux Alpine
+- Docker
+- Docker Compose
+- NGINX as reverse proxy
+- Node.js
+- Express
+- MongoDB
+- Spring-Boot as stateless REST API
+- Maven
+- Java 16
+- Lombook
+
+### Factory floor:
+
+- Siemens Tia Portal V17
+- Web API server
+- STL
+- SCL
+- Ladder
+- Profibus
+- Profinet
+- Abb Robots
+- Rapid
+- Yaskawa Robots
+- INFORM III
 
 
-[![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/grandiose-resilient-wool)
-
-# preview:
+# basic structure:
 ![](https://github.com/gregoriLima/oee-data-and-takt-time-analisys/blob/main/basicStructure.png)
 #
 
