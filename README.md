@@ -1,8 +1,5 @@
 # oee-data-and-takt-time-analisys
  Capacity, efficiency and takt-time data analysis system focused on management decisions. A project for industry 4.0.
- 
- # Form-with-React-Function-Components
- Form Pattern to register new users.
 
 ### Front-end:
 
