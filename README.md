@@ -53,12 +53,19 @@
 # Some screens:
 
 ![](https://github.com/gregoriLima/oee-data-and-takt-time-analisys/blob/main/tela1.png)
+
 ![](https://github.com/gregoriLima/oee-data-and-takt-time-analisys/blob/main/tela2.png)
+
 ![](https://github.com/gregoriLima/oee-data-and-takt-time-analisys/blob/main/tela3.png)
+
 ![](https://github.com/gregoriLima/oee-data-and-takt-time-analisys/blob/main/tela4.png)
+
 ![](https://github.com/gregoriLima/oee-data-and-takt-time-analisys/blob/main/tela5.png)
+
 ![](https://github.com/gregoriLima/oee-data-and-takt-time-analisys/blob/main/tela6.png)
+
 ![](https://github.com/gregoriLima/oee-data-and-takt-time-analisys/blob/main/tela7.png)
+
 ![](https://github.com/gregoriLima/oee-data-and-takt-time-analisys/blob/main/tela8.png)
 
   - Grégori Fernandes de Lima
